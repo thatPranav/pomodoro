@@ -1,7 +1,7 @@
 # Pomodoro-Timer
 
 ## About Website
-Pomodoro Timer is Ad-free,simple, and easy to use Pomodoro Timer. Pomodoro Timer is a productivity app that improves your focus. New features and improvements are coming in the future
+Pomodoro Timer is Ad-free, simple, and easy to use Pomodoro Timer. Pomodoro Timer is a productivity app that improves your focus. New features and improvements are coming in the future
 
 Technology used : ReactJS
 
